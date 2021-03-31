@@ -1,0 +1,20 @@
+{
+  "name": "serve_todo",
+  "version": "1.0.0",
+  "description": "Servidor TODO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Erwin Vargas Mayorga",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "cors": "^2.8.5",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
